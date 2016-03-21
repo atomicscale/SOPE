@@ -16,7 +16,7 @@
 
 
 static void
-list_dir (const char * dir_name, int output)
+list_dir (const char * dir_name,int output)
 {
     DIR * d;
 
@@ -31,17 +31,12 @@ list_dir (const char * dir_name, int output)
         exit (EXIT_FAILURE);
     }
 
-    while (1) {
-        struct dirent * entry;
-        const char * d_name;
+    struct dirent * entry;
+       const char * d_name;
+      /* "Readdir" gets subsequent entries from "d". */
 
-        /* "Readdir" gets subsequent entries from "d". */
-        entry = readdir (d);
-        if (! entry) {
-            /* There are no more entries in this directory, so break
-               out of the while loop. */
-            break;
-        }
+    while ((entry = readdir(d)) != NULL) {
+        
         d_name = entry->d_name;
         /* Print the name of the file and directory. */
 	printf ("%s/%s\n", dir_name, d_name);
