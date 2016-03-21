@@ -13,15 +13,6 @@
 #include <limits.h>
 /* List the files in "dir_name". */
 
-
-int is_regular_file(const char *path)
-{
-    struct stat path_stat;
-    stat(path, &path_stat);
-    
-    return S_ISREG(path_stat.st_mode);
-}
-
 void list_dir (const char * dir_name,int output)
 {
     DIR * d;
@@ -66,7 +57,18 @@ void list_dir (const char * dir_name,int output)
                 /* Recursively call "list_dir" with the new path. */
                 list_dir (path,output);
             }
-	}
+
+
+		}
+
+		 if (entry->d_type & DT_REG){
+          		break;
+          }
+
+          if (entry->d_type & DT_UNKNOWN){
+          		break;
+          }
+
     }
     /* After going through all the entries, close the directory. */
     if (closedir (d)) {
