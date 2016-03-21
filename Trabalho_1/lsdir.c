@@ -14,9 +14,15 @@
 /* List the files in "dir_name". */
 
 
+int is_regular_file(const char *path)
+{
+    struct stat path_stat;
+    stat(path, &path_stat);
+    
+    return S_ISREG(path_stat.st_mode);
+}
 
-static void
-list_dir (const char * dir_name,int output)
+void list_dir (const char * dir_name,int output)
 {
     DIR * d;
 
@@ -39,25 +45,14 @@ list_dir (const char * dir_name,int output)
         
         d_name = entry->d_name;
         /* Print the name of the file and directory. */
-	printf ("%s/%s\n", dir_name, d_name);
-
-#if 0
-	/* If you don't want to print the directories, use the
-	   following line: */
-
-        if (! (entry->d_type & DT_DIR)) {
-	    printf ("%s/%s\n", dir_name, d_name);
-	}
-
-#endif /* 0 */
+		printf ("%s/%s\n", dir_name, d_name);
 
 
-        if (entry->d_type & DT_DIR) {
+       if (entry->d_type & DT_DIR) {
 
             /* Check that the directory is not "d" or d's parent. */
             
-            if (strcmp (d_name, "..") != 0 &&
-                strcmp (d_name, ".") != 0) {
+            if (strcmp (d_name, "..") != 0 && strcmp (d_name, ".") != 0) {
                 int path_length;
                 char path[PATH_MAX];
  
