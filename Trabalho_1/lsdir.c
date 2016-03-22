@@ -12,26 +12,37 @@
 /* limits.h defines "PATH_MAX". */
 #include <limits.h>
 /* List the files in "dir_name". */
-
+#include <pwd.h>
+/* Finding usernames from uid. */
 
 void print_file(const char* path, int output) {
 	struct stat file_info;
+	struct passwd *pwd;
 	if(stat(path, &file_info) == 1) {
 		perror(strerror(errno));
 		perror("Error retrieving data from file.");
 		return;
 	}
 
-	char inode[20], size[10], modification_date[20];
+
+	char inode[20], size[10], last_access[20], uid[20];
 	sprintf(inode, "%u",(unsigned int) file_info.st_ino);
 	write(output, inode, strlen(inode));
-	sprintf(size, "%u", (unsigned int) file_info.st_size);
-	write(output, " | ", strlen(" | "));
-	strftime(modification_date, 20, "%g %b %e %H:%M", localtime(&file_info.st_mtime));
-	write(output, modification_date, strlen(modification_date));
-	write(output, " | ", strlen(" | "));
+	write(output, "  ", strlen("  "));
+	if ((pwd = getpwuid(file_info.st_uid)) != NULL){
+		//printf(" %-8.8s", pwd->pw_name);
+    	write(output, pwd->pw_name, strlen(pwd->pw_name));
+    	write(output, "  ", strlen("  "));
+    }
+	/*sprintf(size, "%u", (unsigned int) file_info.st_uid);
+	write(output, uid, strlen(uid));*/
+	sprintf(size, "%6u", (unsigned int) file_info.st_size);
+	write(output, "  ", strlen("  "));
 	write(output, size, strlen(size));
-	write(output, " | ", strlen(" | "));
+	write(output, "  ", strlen("  "));
+	strftime(last_access, 20, "%e %b %g %H:%M", localtime(&file_info.st_atime));
+	write(output, last_access, strlen(last_access));
+	write(output, "  ", strlen("  "));
 }
 
 void list_dir (const char * dir_name,int output)
@@ -51,8 +62,9 @@ void list_dir (const char * dir_name,int output)
 
     struct dirent * entry;
        const char * d_name;
-      /* "Readdir" gets subsequent entries from "d". */
-
+      /* "Readdir" gets subsequent entries from "d". 
+      Note: The sorting is based in the order in which they are stored by the filesystem */
+       
     while ((entry = readdir(d)) != NULL) {
         
         d_name = entry->d_name;
@@ -69,7 +81,10 @@ void list_dir (const char * dir_name,int output)
 
                 path_length = snprintf (path, PATH_MAX,
                                         "%s%s", dir_name, d_name);
+                /*Concatenating file path to get the full path.
+                Only way to access subdirectories*/
                 strcat(path,"/");
+
                 //printf ("%s\n", path);
                 if (path_length >= PATH_MAX) {
                     fprintf (stderr, "Path length has got too long.\n");
@@ -85,7 +100,7 @@ void list_dir (const char * dir_name,int output)
       			if (strcmp (d_name, "..") != 0 && strcmp (d_name, ".") != 0) {
                		 int path_length;
                		 char path[PATH_MAX];
-               		
+
                 	path_length = snprintf (path, PATH_MAX,
                                         "%s%s", dir_name, d_name);
 
