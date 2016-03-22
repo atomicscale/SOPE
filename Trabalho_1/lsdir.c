@@ -132,7 +132,7 @@ void list_dir (const char * dir_name,int output)
 int main (int argc, char* argv[])
 {
 	char* filepath = "./files.txt";
-	int file = open(filepath, O_RDWR | O_TRUNC | O_CREAT);
+	int file = open(filepath, O_CREAT | O_RDWR | O_TRUNC, 0666);
 
 	if(file == -1) {
 		perror(strerror(errno));
