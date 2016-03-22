@@ -25,7 +25,8 @@ void print_file(const char* path, int output) {
 	}
 
 
-	char inode[20], size[10], last_access[20], uid[20];
+	char inode[20], size[10], last_access[20];
+	//char uid[20];
 	sprintf(inode, "%u",(unsigned int) file_info.st_ino);
 	write(output, inode, strlen(inode));
 	write(output, "  ", strlen("  "));
