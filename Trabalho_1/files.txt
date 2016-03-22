@@ -1,0 +1,237 @@
+/home/vitor/Desktop/SOPE/Prob_04/
+1179651 | 16 Mar 18 17:02 | 8832 | p1
+1179650 | 16 Mar 18 17:01 | 551 | p1.c
+/home/vitor/Desktop/SOPE/Trabalho_1/
+1179665 | 16 Mar 22 16:57 | 3752 | lsdir.c
+1179660 | 16 Mar 22 16:57 | 13760 | lsdir
+1179668 | 16 Mar 22 16:57 | 233 | files.txt
+/home/vitor/Desktop/SOPE/.git/
+1179788 | 16 Mar 21 16:57 | 0 | FETCH_HEAD
+1179692 | 16 Mar 21 18:41 | 52 | COMMIT_EDITMSG
+/home/vitor/Desktop/SOPE/.git/objects/
+/home/vitor/Desktop/SOPE/.git/objects/57/
+1179820 | 16 Mar 21 16:57 | 209 | 141c3fb44cb7d2948f3a8fa5f088a227c91ab0
+/home/vitor/Desktop/SOPE/.git/objects/81/
+1179735 | 16 Mar 21 16:55 | 300 | 0e6fab7b4fe4aa1ef49e3254127721b32112a0
+/home/vitor/Desktop/SOPE/.git/objects/11/
+1179837 | 16 Mar 21 18:12 | 178 | 7f60ec462422418c9a6cbcfe5e6aa5068eb0fd
+/home/vitor/Desktop/SOPE/.git/objects/65/
+1179739 | 16 Mar 21 16:55 | 269 | bc3194e39b0b732bab73039471e002a1c5a0e1
+/home/vitor/Desktop/SOPE/.git/objects/e6/
+1179785 | 16 Mar 21 16:55 | 15 | 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+1179781 | 16 Mar 21 16:55 | 340 | ccb864c14016837cc3467f9de8bb80a3901fa8
+/home/vitor/Desktop/SOPE/.git/objects/4e/
+1179798 | 16 Mar 21 16:57 | 117 | eea264c0affb4bda293d7b5bc1591eb96054e6
+/home/vitor/Desktop/SOPE/.git/objects/82/
+1179802 | 16 Mar 21 16:55 | 185 | fb77a62b1a22459e7144e9aaeb3fa8c7dc8daa
+/home/vitor/Desktop/SOPE/.git/objects/19/
+1179836 | 16 Mar 21 18:12 | 198 | 740dd19188424e771c9a4acf2eb932bd6b3bd0
+/home/vitor/Desktop/SOPE/.git/objects/d4/
+1179747 | 16 Mar 21 16:55 | 575 | ad146b8dc94c12c624a2b4f0d79b14d0c04f53
+1179786 | 16 Mar 21 16:55 | 3767 | e231cf411e4543807cd9e4236460982be00897
+/home/vitor/Desktop/SOPE/.git/objects/f7/
+1179846 | 16 Mar 21 18:41 | 199 | a93ecd7a0e5017467017bf52288c824b484a0f
+/home/vitor/Desktop/SOPE/.git/objects/42/
+1179751 | 16 Mar 21 16:55 | 532 | ace4162f2cbbabf0ea662d29f286cc087af6cc
+/home/vitor/Desktop/SOPE/.git/objects/50/
+1179714 | 16 Mar 21 16:55 | 124 | 00d574386375ed6402d0242a5d4131a68d36ae
+1179840 | 16 Mar 21 18:41 | 998 | 8b8951d1804b2b0b2c584c0d2d960a9a34091f
+/home/vitor/Desktop/SOPE/.git/objects/b6/
+1179716 | 16 Mar 21 16:55 | 2712 | 96c9ab830bf3965d2198f56fe63eff9ab25f41
+/home/vitor/Desktop/SOPE/.git/objects/5a/
+1179843 | 16 Mar 21 18:41 | 116 | 1c0d91de45ed2e698180e990619dff2401be0f
+/home/vitor/Desktop/SOPE/.git/objects/67/
+1179706 | 16 Mar 21 16:55 | 173 | b115b7f77c596eb484bd1155191c894ca32319
+/home/vitor/Desktop/SOPE/.git/objects/51/
+1179774 | 16 Mar 21 16:55 | 303 | 033ae3d8db27043696e8023517a0740420a39b
+1179712 | 16 Mar 21 16:55 | 2595 | 2f66b71673ff56f088bc7e9ceab005415be347
+/home/vitor/Desktop/SOPE/.git/objects/b5/
+1179743 | 16 Mar 21 16:55 | 316 | fc1bca4708225f9d237035830f402562b609df
+/home/vitor/Desktop/SOPE/.git/objects/86/
+1179834 | 16 Mar 21 18:12 | 117 | b0ee32ac55ee8fa1aaeae3598744c782006b0d
+/home/vitor/Desktop/SOPE/.git/objects/3b/
+1179784 | 16 Mar 21 16:55 | 306 | 083e805c263868b8eee18872bda703fe091f4e
+/home/vitor/Desktop/SOPE/.git/objects/e8/
+1179829 | 16 Mar 21 18:12 | 3942 | 398c17d63f0ccbc2b804dab4fea963b14c050b
+/home/vitor/Desktop/SOPE/.git/objects/c4/
+1179698 | 16 Mar 21 16:55 | 86 | 700f7a0fb51f6e0fadd9b5ea97085b0b0aae99
+1179816 | 16 Mar 21 17:04 | 3760 | f3823f599e86f3d89784b7a48e7f4e6595d29a
+/home/vitor/Desktop/SOPE/.git/objects/e9/
+1179810 | 16 Mar 21 16:57 | 134 | 47f0edd9c6802a1c583f7f9ae8244eff7ccd3a
+/home/vitor/Desktop/SOPE/.git/objects/63/
+1179754 | 16 Mar 21 16:55 | 237 | 23daaea918e972cdba599d61d1358dc36051d7
+1179733 | 16 Mar 21 16:55 | 299 | 3bbc48a4e6388eea0d102777b93b79bdbec5c8
+/home/vitor/Desktop/SOPE/.git/objects/52/
+1179831 | 16 Mar 21 18:12 | 1025 | 988577f02ba84eeae3ea17246cb04c76a5e713
+/home/vitor/Desktop/SOPE/.git/objects/bc/
+1179818 | 16 Mar 21 16:57 | 198 | 7489fc30fab9d7fb3c61c1bfb43a2774bd835e
+1179776 | 16 Mar 21 16:55 | 2923 | 187ba78d30891102115f39e28a1ae7285a22ef
+/home/vitor/Desktop/SOPE/.git/objects/a4/
+1179727 | 16 Mar 21 16:55 | 3044 | 3f30b7f13efee95dbaa905cb316bf90d877752
+/home/vitor/Desktop/SOPE/.git/objects/44/
+1179704 | 16 Mar 21 16:55 | 2596 | 71520011c784618d12abe0fc73e8bd4a3ac760
+/home/vitor/Desktop/SOPE/.git/objects/24/
+1179827 | 16 Mar 21 17:04 | 198 | 89e2e8d39450b0f22644fb2f1be49345fb2aa3
+/home/vitor/Desktop/SOPE/.git/objects/d7/
+1179778 | 16 Mar 21 16:55 | 337 | 26246ebaff3f380635934958fc5e009058e915
+/home/vitor/Desktop/SOPE/.git/objects/ff/
+1179724 | 16 Mar 21 16:55 | 2654 | 0b033d00dce363d342ec8e388d536bb982255c
+/home/vitor/Desktop/SOPE/.git/objects/4b/
+1179745 | 16 Mar 21 16:55 | 3180 | abcf4e1dc9458e969ef705399f1a61e5785c3f
+/home/vitor/Desktop/SOPE/.git/objects/27/
+1179722 | 16 Mar 21 16:55 | 499 | 620f016c1d9a9db98a17b77ecd16ebfa9f8c91
+/home/vitor/Desktop/SOPE/.git/objects/72/
+1179770 | 16 Mar 21 16:55 | 2895 | 8a25e35fff97f847063f0fa9a618cbdaed7f58
+/home/vitor/Desktop/SOPE/.git/objects/73/
+1179768 | 16 Mar 21 16:55 | 438 | 7aa48785d1ee59bb723d3358a1b5a10f424497
+/home/vitor/Desktop/SOPE/.git/objects/28/
+1179812 | 16 Mar 21 16:57 | 54 | f257801f9759049fba1d7039569f72502d5cbd
+/home/vitor/Desktop/SOPE/.git/objects/da/
+1179845 | 16 Mar 21 18:41 | 198 | 3d1e548b420e69f614d386de4e7e7320808c94
+/home/vitor/Desktop/SOPE/.git/objects/fb/
+1179731 | 16 Mar 21 16:55 | 2999 | 1e22af4cdb1ee94ae404a64cc49e3482a0e74b
+/home/vitor/Desktop/SOPE/.git/objects/f0/
+1179757 | 16 Mar 21 16:55 | 196 | 84e14d0e069a8e394dc92d26beb1e4339b88aa
+1179718 | 16 Mar 21 16:55 | 239 | a70caeb43c6689cb4d42dc9800ac24af964e17
+/home/vitor/Desktop/SOPE/.git/objects/pack/
+/home/vitor/Desktop/SOPE/.git/objects/cf/
+1179760 | 16 Mar 21 16:55 | 206 | 67c93158f73e7ea7098209a5f4021b9d057130
+/home/vitor/Desktop/SOPE/.git/objects/3a/
+1179729 | 16 Mar 21 16:55 | 335 | b0fceed84f35c93814e751d48cb077b296ee58
+/home/vitor/Desktop/SOPE/.git/objects/6d/
+1179782 | 16 Mar 21 16:55 | 2993 | d42ab3277cd614a7633e89e84c4c0f7e2c09b0
+1179803 | 16 Mar 21 17:04 | 173 | c2f053974bee45bf6155ffeaf58f5f934a19ad
+1179741 | 16 Mar 21 16:55 | 3028 | 9faed84da9e2ec58213131da2ffc726d3f7f70
+/home/vitor/Desktop/SOPE/.git/objects/76/
+1179710 | 16 Mar 21 16:55 | 86 | fb50250c0b8d1dfa2ebd237514c47be05724d5
+/home/vitor/Desktop/SOPE/.git/objects/a3/
+1179737 | 16 Mar 21 16:55 | 361 | 1a5d5f8402418518dd674d84b079f40e698de2
+1179771 | 16 Mar 21 16:55 | 299 | 8472d57f37eec9200e1637617a5e295e663c13
+/home/vitor/Desktop/SOPE/.git/objects/d6/
+1179825 | 16 Mar 21 17:04 | 116 | 507d2da53b22a559e5b5aa76f62362d335f904
+/home/vitor/Desktop/SOPE/.git/objects/fe/
+1179794 | 16 Mar 21 16:57 | 488 | 161400c7a82ab228c80b31e2047e3147784dfc
+/home/vitor/Desktop/SOPE/.git/objects/55/
+1179787 | 16 Mar 21 16:55 | 1096 | a501e3e76d7cc4f6978521a5bff2f7c7f35ed8
+1179779 | 16 Mar 21 16:55 | 2928 | 3da569b9c4023a536e1eb22a0b16842f691876
+1179749 | 16 Mar 21 16:55 | 3129 | 2598b7dfbf9f746170b7aefdd66bc6d8b6dc20
+/home/vitor/Desktop/SOPE/.git/objects/info/
+/home/vitor/Desktop/SOPE/.git/objects/64/
+1179762 | 16 Mar 21 16:55 | 3077 | 261e0a2e5651dca7300712f6ef442d0ba9008c
+/home/vitor/Desktop/SOPE/.git/objects/af/
+1179753 | 16 Mar 21 16:55 | 2826 | 5c9ae92f335edeb195321fd2e30a9b0a8e7636
+1179758 | 16 Mar 21 16:55 | 2815 | 4a0cee1d31952bfd1d6d51f2bfcbdfb0f4b103
+/home/vitor/Desktop/SOPE/.git/objects/ce/
+1179700 | 16 Mar 21 16:55 | 2596 | f14ca3d7dfa18683cb2e3386c53b0bf72f06a3
+/home/vitor/Desktop/SOPE/.git/objects/18/
+1179814 | 16 Mar 21 16:57 | 69 | 50c3c78b96a436fb796354dbeda02ba1c095d2
+/home/vitor/Desktop/SOPE/.git/objects/a9/
+1179791 | 16 Mar 21 16:57 | 638 | eb52e97321315be29d75155aa726628954de44
+/home/vitor/Desktop/SOPE/.git/objects/b2/
+1179694 | 16 Mar 21 16:55 | 29 | ebd94c53a4dfa77045e33885dd225000ed4af2
+1179792 | 16 Mar 21 16:57 | 226 | 53d3b0e91be9b6c65377c017d81ef5403e3e91
+/home/vitor/Desktop/SOPE/.git/objects/58/
+1179839 | 16 Mar 21 18:41 | 3772 | 28e8ecda423f6188ccb282cdbe20854c038d66
+/home/vitor/Desktop/SOPE/.git/objects/09/
+1179796 | 16 Mar 21 16:57 | 77 | 997f3919b8419cc57a367432429a2e097d416b
+/home/vitor/Desktop/SOPE/.git/objects/e5/
+1179725 | 16 Mar 21 16:55 | 174 | 52a243eac244815d5d8cd0308dc447976ef3f9
+1179708 | 16 Mar 21 16:55 | 2595 | 699b9bc28c21928283fcfe5b2dd199379e79cd
+/home/vitor/Desktop/SOPE/.git/objects/d3/
+1179766 | 16 Mar 21 16:55 | 3079 | 0584bd7ea1d0d63afd4de312390080846593ee
+/home/vitor/Desktop/SOPE/.git/objects/ad/
+1179800 | 16 Mar 21 16:55 | 159 | 9e58b74b099bf0b06af142dda2d05808c075ee
+/home/vitor/Desktop/SOPE/.git/objects/04/
+1179702 | 16 Mar 21 16:55 | 243 | 0ed6410511ede1cd87c8398b942d357ceca612
+/home/vitor/Desktop/SOPE/.git/objects/90/
+1179696 | 16 Mar 21 16:55 | 2596 | e17a214594fdf821b19d24fab9cdd9164db84f
+/home/vitor/Desktop/SOPE/.git/objects/00/
+1179773 | 16 Mar 21 16:55 | 2895 | 4546b64f5f9d131ef0db55d83f6a056ae1c1d9
+/home/vitor/Desktop/SOPE/.git/objects/25/
+1179822 | 16 Mar 21 17:04 | 1040 | fe2e3a4d7e13162adc002a853cefbe7ad36ab8
+1179756 | 16 Mar 21 16:55 | 2933 | 0f910817a6d2fac9f45b70ee7f7557c081c821
+/home/vitor/Desktop/SOPE/.git/objects/95/
+1179764 | 16 Mar 21 16:55 | 437 | 23d35f6230d8517002b47d296cd0c0b3511fe9
+/home/vitor/Desktop/SOPE/.git/objects/6c/
+1179720 | 16 Mar 21 16:55 | 2819 | b112b8d3b7dba74fa845515d951da9df4c5e97
+/home/vitor/Desktop/SOPE/.git/refs/
+/home/vitor/Desktop/SOPE/.git/refs/tags/
+/home/vitor/Desktop/SOPE/.git/refs/heads/
+1179847 | 16 Mar 21 18:41 | 41 | master
+1179841 | 16 Mar 21 18:41 | 4743 | index
+/home/vitor/Desktop/SOPE/.git/hooks/
+1179674 | 16 Mar 21 16:54 | 1348 | pre-push.sample
+1179675 | 16 Mar 21 16:54 | 4898 | pre-rebase.sample
+1179676 | 16 Mar 21 16:54 | 3611 | update.sample
+1179677 | 16 Mar 21 16:54 | 478 | applypatch-msg.sample
+1179678 | 16 Mar 21 16:54 | 1239 | prepare-commit-msg.sample
+1179679 | 16 Mar 21 16:54 | 896 | commit-msg.sample
+1179680 | 16 Mar 21 16:54 | 424 | pre-applypatch.sample
+1179681 | 16 Mar 21 16:54 | 1642 | pre-commit.sample
+1179682 | 16 Mar 21 16:54 | 189 | post-update.sample
+1179689 | 16 Mar 21 16:57 | 285 | config
+/home/vitor/Desktop/SOPE/.git/logs/
+/home/vitor/Desktop/SOPE/.git/logs/refs/
+/home/vitor/Desktop/SOPE/.git/logs/refs/heads/
+1179807 | 16 Mar 21 18:41 | 1020 | master
+1179808 | 16 Mar 21 18:41 | 1020 | HEAD
+/home/vitor/Desktop/SOPE/.git/info/
+1179684 | 16 Mar 21 16:54 | 240 | exclude
+1179687 | 16 Mar 21 16:54 | 23 | HEAD
+/home/vitor/Desktop/SOPE/.git/branches/
+1179686 | 16 Mar 21 16:54 | 73 | description
+1179815 | 16 Mar 21 16:57 | 41 | ORIG_HEAD
+/home/vitor/Desktop/SOPE/Prob_03/
+1183433 | 16 Mar  7 17:40 | 8880 | p6c
+1183430 | 16 Mar  7 17:37 | 825 | p6.c
+1183428 | 16 Mar  7 16:43 | 358 | p4b.c
+1183439 | 16 Mar  7 17:57 | 567 | p8c.c
+1183426 | 16 Mar  7 16:42 | 8840 | p4a
+1183441 | 16 Mar  7 17:59 | 571 | p8d.c
+1183429 | 16 Mar  7 16:43 | 8728 | p4b
+1183424 | 16 Mar  7 16:42 | 350 | p4a.c
+1183440 | 16 Mar  7 17:57 | 8728 | p8c
+1183435 | 16 Mar  7 17:47 | 8728 | p8a
+1183442 | 16 Mar  7 17:59 | 8720 | p8d
+1183422 | 16 Mar  7 16:35 | 8712 | p1
+1183436 | 16 Mar  7 17:53 | 468 | p8b.c
+1183420 | 16 Mar  7 16:35 | 436 | p1.c
+1183434 | 16 Mar  7 17:47 | 464 | p8a.c
+1183431 | 16 Mar  7 17:39 | 8880 | p6
+1183432 | 16 Mar  7 17:40 | 827 | p6c.c
+1183437 | 16 Mar  7 17:53 | 8720 | p8b
+/home/vitor/Desktop/SOPE/Prob_01/
+1444639 | 16 Feb 22 17:17 | 235 | p5a.c
+1444626 | 16 Feb 22 16:30 | 8520 | p2b
+1444647 | 16 Feb 22 18:45 | 13 | outfile.txt
+1444625 | 16 Feb 22 16:26 | 8520 | p2a
+1444628 | 16 Feb 22 16:34 | 8520 | p3a
+1444637 | 16 Feb 22 17:09 | 899 | p4b.c
+1444648 | 16 Feb 22 20:41 | 584 | p6f.c
+1444629 | 16 Feb 22 16:34 | 181 | p3a.c
+1444634 | 16 Feb 22 19:03 | 8576 | p4a
+1444633 | 16 Feb 22 16:37 | 111 | p3c.c
+1444635 | 16 Feb 22 17:14 | 8520 | p5a
+1444636 | 16 Feb 22 17:02 | 8624 | p4b
+1444641 | 16 Feb 22 17:40 | 8944 | p6a
+1183286 | 16 Feb 22 16:25 | 71 | p2a.c
+1444640 | 16 Feb 23 09:02 | 334 | p4a.c
+1444638 | 16 Feb 22 17:48 | 583 | p6e.c
+1444643 | 16 Feb 22 17:48 | 8840 | p6e
+1444627 | 16 Feb 22 16:30 | 306 | p2b.c
+1444650 | 16 Feb 22 18:44 | 13 | infile.txt
+1444631 | 16 Feb 22 16:35 | 71 | p3b.c
+1444642 | 16 Feb 22 17:41 | 683 | p6a.c
+1444630 | 16 Feb 22 16:36 | 8520 | p3b
+1444649 | 16 Feb 22 19:42 | 807 | p6g.c
+1444632 | 16 Feb 22 16:37 | 8520 | p3c
+1179817 | 16 Mar 21 16:57 | 56 | README.md
+/home/vitor/Desktop/SOPE/Prob_02/
+1444760 | 16 Feb 29 17:19 | 8928 | p2b
+1444757 | 16 Feb 29 16:32 | 8944 | p2a
+1444755 | 16 Feb 29 16:28 | 624 | p2a.c
+1444765 | 16 Feb 29 17:19 | 18909 | output.txt
+1444759 | 16 Feb 29 17:23 | 1271 | p2b.c
+1444766 | 16 Feb 29 17:45 | 1265 | p3b.c
+1444756 | 16 Feb 29 17:12 | 18909 | input
+1444768 | 16 Feb 29 17:45 | 8880 | p3b
