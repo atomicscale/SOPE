@@ -27,6 +27,7 @@ void print_file(const char* path, int output) {
 
 	char inode[20], size[10], last_modification[20], file_permissions[20];
 
+
 	sprintf(inode, "%u",(unsigned int) file_info.st_ino);
 	write(output, inode, strlen(inode));
 	write(output, "  ", strlen("  "));
@@ -51,7 +52,6 @@ void print_file(const char* path, int output) {
     write(output, file_permissions, strlen(file_permissions));
     sprintf(file_permissions, "%s", (file_info.st_mode & S_IXOTH) ? "x" : "-");
     write(output, file_permissions, strlen(file_permissions));
-
 	
 
 	write(output, "  ", strlen("  "));
@@ -63,9 +63,10 @@ void print_file(const char* path, int output) {
 	write(output, "  ", strlen("  "));
 	write(output, size, strlen(size));
 	write(output, "  ", strlen("  "));
-	strftime(last_modification, 20, "%e %b %g %H:%M", localtime(&file_info.st_mtime));
+	strftime(last_modification, 20, "%b %e %H:%M", localtime(&file_info.st_mtime));
 	write(output, last_modification, strlen(last_modification));
 	write(output, "  ", strlen("  "));
+
 }
 
 void list_dir (const char * dir_name,int output)
@@ -115,11 +116,13 @@ void list_dir (const char * dir_name,int output)
 				write(output, "\n", strlen("\n"));
                 /* Recursively call "list_dir" with the new path. */
 				list_dir (path,output);
+				write(output, "\n", strlen("\n"));
 			}
 		}
 		else if(entry->d_type == DT_REG){
 
 			if (strcmp (d_name, "..") != 0 && strcmp (d_name, ".") != 0) {
+				
 				int path_length;
 				char path[PATH_MAX];
 
@@ -134,10 +137,10 @@ void list_dir (const char * dir_name,int output)
 				print_file(path, output);
 				write(output, d_name, strlen(d_name));
 				write(output, "\n", strlen("\n"));
-
 			}
 
 		}
+
 	}
     /* After going through all the entries, close the directory. */
 	if (closedir (d)) {
