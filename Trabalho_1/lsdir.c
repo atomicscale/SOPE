@@ -7,6 +7,7 @@
 #include <sys/stat.h>
 #include <unistd.h>
 #include <errno.h>
+#include <sys/wait.h>
 /* "readdir" etc. are defined here. */
 #include <dirent.h>
 /* limits.h defines "PATH_MAX". */
@@ -101,10 +102,17 @@ void list_dir (const char * dir_name,int output)
 				int path_length;
 				char path[PATH_MAX];
 
+				int pid = fork();
+
 				path_length = snprintf (path, PATH_MAX,
 					"%s%s", dir_name, d_name);
                 /*Concatenating file path to get the full path.
                 Only way to access subdirectories*/
+				if(pid < 0) {
+					fprintf(stderr, "Error creating a child. (%s)\n", strerror(errno));
+				}	
+
+                else if(pid == 0){
 				strcat(path,"/");
 
 
@@ -115,10 +123,19 @@ void list_dir (const char * dir_name,int output)
 				write(output, path, strlen(path));
 				write(output, "\n", strlen("\n"));
                 /* Recursively call "list_dir" with the new path. */
+
+
 				list_dir (path,output);
 				write(output, "\n", strlen("\n"));
+				exit(0);
+				}
+
+			else{
+				waitpid(pid,NULL,0);
 			}
 		}
+	}
+
 		else if(entry->d_type == DT_REG){
 
 			if (strcmp (d_name, "..") != 0 && strcmp (d_name, ".") != 0) {
