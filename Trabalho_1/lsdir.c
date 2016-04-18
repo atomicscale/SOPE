@@ -16,6 +16,8 @@
 #include <pwd.h>
 /* Finding usernames from uid. */
 
+int count = 0;
+
 void print_file(const char* path, int output) {
 	struct stat file_info;
 	struct passwd *pwd;
@@ -85,6 +87,12 @@ void list_dir (const char * dir_name,int output)
 
 	struct dirent * entry;
 	const char * d_name;
+
+	if(count == 0){
+		write(output,dir_name,strlen(dir_name));
+		write(output, "\n", strlen("\n"));
+		count++;
+	}
       /* "Readdir" gets subsequent entries from "d". 
       Note: The sorting is based in the order in which they are stored by the filesystem */
 
@@ -97,8 +105,9 @@ void list_dir (const char * dir_name,int output)
 		if (entry->d_type == DT_DIR) {
 
             /* Check that teh directory is not "d" or d's parent. */
+			
 
-			if (strcmp (d_name, "..") != 0 && strcmp (d_name, ".") != 0) {
+			if (strcmp (d_name, "..") != 0 && strcmp (d_name, ".") != 0) {				
 				int path_length;
 				char path[PATH_MAX];
 
@@ -116,6 +125,7 @@ void list_dir (const char * dir_name,int output)
 				strcat(path,"/");
 
 
+
 				if (path_length >= PATH_MAX) {
 					fprintf (stderr, "Path length has got too long.\n");
 					exit (EXIT_FAILURE);
@@ -123,7 +133,6 @@ void list_dir (const char * dir_name,int output)
 				write(output, path, strlen(path));
 				write(output, "\n", strlen("\n"));
                 /* Recursively call "list_dir" with the new path. */
-
 
 				list_dir (path,output);
 				write(output, "\n", strlen("\n"));
