@@ -18,6 +18,13 @@
 
 int count = 0;
 
+int is_regular_file(const char *path)
+{
+    struct stat path_stat;
+    stat(path, &path_stat);
+    return S_ISREG(path_stat.st_mode);
+}
+
 void print_file(const char* path, int output) {
 	struct stat file_info;
 	struct passwd *pwd;
@@ -92,6 +99,7 @@ void list_dir (const char * dir_name,int output)
 		write(output,dir_name,strlen(dir_name));
 		write(output, "\n", strlen("\n"));
 		count++;
+
 	}
       /* "Readdir" gets subsequent entries from "d". 
       Note: The sorting is based in the order in which they are stored by the filesystem */

@@ -1,0 +1,3 @@
+Os resultados apresentados em bin/gerador.log e bin/parque.log foram obtidos utilizando os comandos:
+./Parque 30 14
+./Gerador 10 10

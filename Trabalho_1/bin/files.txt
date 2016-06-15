@@ -1,0 +1,423 @@
+/home/vitor/Desktop/SOPE/
+/home/vitor/Desktop/SOPE/Prob_04/
+1179651  -rwxrwxr-x  vitor      8832  Mar 18 17:02  p1
+1179650  -rw-rw-r--  vitor       551  Mar 18 17:01  p1.c
+
+/home/vitor/Desktop/SOPE/Trabalho_1/
+/home/vitor/Desktop/SOPE/Trabalho_1/bin/
+2099797  -rwxrwxr-x  vitor     13312  Apr 18 12:04  rmdup
+2099799  -rwxrwxr-x  vitor     14040  Apr 18 12:04  lsdir
+2102022  -rw-rw-r--  vitor       367  Apr 18 12:04  files.txt
+
+2102044  -rw-rw-r--  vitor      3059  Apr 18 08:46  rmdup.c
+2099192  -rw-rw-r--  vitor       188  Apr 18 08:24  Makefile
+2102042  -rw-rw-r--  vitor      5681  Apr 18 12:04  lsdir.c
+
+/home/vitor/Desktop/SOPE/.git/
+1179788  -rw-rw-r--  vitor        97  Apr 18 11:40  FETCH_HEAD
+1179692  -rw-rw-r--  vitor        35  Apr 18 08:46  COMMIT_EDITMSG
+/home/vitor/Desktop/SOPE/.git/objects/
+/home/vitor/Desktop/SOPE/.git/objects/57/
+1179820  -r--r--r--  vitor       209  Mar 21 16:57  141c3fb44cb7d2948f3a8fa5f088a227c91ab0
+
+/home/vitor/Desktop/SOPE/.git/objects/81/
+1179735  -r--r--r--  vitor       300  Mar 21 16:55  0e6fab7b4fe4aa1ef49e3254127721b32112a0
+
+/home/vitor/Desktop/SOPE/.git/objects/54/
+1318722  -r--r--r--  vitor        52  Apr 14 19:07  6a938945d9e1ffae10731fc7956b5b064cb7d3
+
+/home/vitor/Desktop/SOPE/.git/objects/56/
+1179865  -r--r--r--  vitor        52  Mar 22 18:18  d32bf7306c6841a180b242db58c61973ed7554
+
+/home/vitor/Desktop/SOPE/.git/objects/11/
+1179837  -r--r--r--  vitor       178  Mar 21 18:12  7f60ec462422418c9a6cbcfe5e6aa5068eb0fd
+
+/home/vitor/Desktop/SOPE/.git/objects/65/
+1179739  -r--r--r--  vitor       269  Mar 21 16:55  bc3194e39b0b732bab73039471e002a1c5a0e1
+
+/home/vitor/Desktop/SOPE/.git/objects/e6/
+1179785  -r--r--r--  vitor        15  Mar 21 16:55  9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+1179781  -r--r--r--  vitor       340  Mar 21 16:55  ccb864c14016837cc3467f9de8bb80a3901fa8
+
+/home/vitor/Desktop/SOPE/.git/objects/4e/
+1179798  -r--r--r--  vitor       117  Mar 21 16:57  eea264c0affb4bda293d7b5bc1591eb96054e6
+
+/home/vitor/Desktop/SOPE/.git/objects/dc/
+1179927  -r--r--r--  vitor      1621  Mar 23 17:51  dfac2651eb699db1f7f9b7cd5e97ed499cab5e
+
+/home/vitor/Desktop/SOPE/.git/objects/82/
+1179802  -r--r--r--  vitor       185  Mar 21 16:55  fb77a62b1a22459e7144e9aaeb3fa8c7dc8daa
+
+/home/vitor/Desktop/SOPE/.git/objects/9f/
+2100756  -r--r--r--  vitor       233  Apr 18 08:46  6b31947fb8e4de4374790a6469468346bde485
+
+/home/vitor/Desktop/SOPE/.git/objects/19/
+1185817  -r--r--r--  vitor      1186  Apr 18 08:46  8c40598550cce2b9bda42da280a711f7619d87
+1179860  -r--r--r--  vitor       116  Mar 22 18:14  daf290c20b593c3cf20b8d6206effda738b671
+1179836  -r--r--r--  vitor       198  Mar 21 18:12  740dd19188424e771c9a4acf2eb932bd6b3bd0
+
+/home/vitor/Desktop/SOPE/.git/objects/d4/
+1179747  -r--r--r--  vitor       575  Mar 21 16:55  ad146b8dc94c12c624a2b4f0d79b14d0c04f53
+1179786  -r--r--r--  vitor      3767  Mar 21 16:55  e231cf411e4543807cd9e4236460982be00897
+
+/home/vitor/Desktop/SOPE/.git/objects/f7/
+1179846  -r--r--r--  vitor       199  Mar 21 18:41  a93ecd7a0e5017467017bf52288c824b484a0f
+1179917  -r--r--r--  vitor       233  Mar 22 18:50  f8b98aba5656baeaf701db192607df682f09ac
+
+/home/vitor/Desktop/SOPE/.git/objects/42/
+1179751  -r--r--r--  vitor       532  Mar 21 16:55  ace4162f2cbbabf0ea662d29f286cc087af6cc
+
+/home/vitor/Desktop/SOPE/.git/objects/50/
+1179714  -r--r--r--  vitor       124  Mar 21 16:55  00d574386375ed6402d0242a5d4131a68d36ae
+1179840  -r--r--r--  vitor       998  Mar 21 18:41  8b8951d1804b2b0b2c584c0d2d960a9a34091f
+
+/home/vitor/Desktop/SOPE/.git/objects/b6/
+1179911  -r--r--r--  vitor       188  Mar 22 18:50  e393aa2f853d93309b76994b892c3432f77b04
+1179716  -r--r--r--  vitor      2712  Mar 21 16:55  96c9ab830bf3965d2198f56fe63eff9ab25f41
+1185505  -r--r--r--  vitor       186  Apr 14 19:07  643ef8b1ee23e02cb08bdd97b9eb451cc50564
+
+/home/vitor/Desktop/SOPE/.git/objects/5a/
+1179843  -r--r--r--  vitor       116  Mar 21 18:41  1c0d91de45ed2e698180e990619dff2401be0f
+
+/home/vitor/Desktop/SOPE/.git/objects/67/
+1179706  -r--r--r--  vitor       173  Mar 21 16:55  b115b7f77c596eb484bd1155191c894ca32319
+1179920  -r--r--r--  vitor      1620  Mar 23 14:57  8b81ad40789771c1031b62aaa1d937b61b1445
+
+/home/vitor/Desktop/SOPE/.git/objects/77/
+1179868  -r--r--r--  vitor       170  Mar 22 18:18  b2b2802a85eed82e37a044a0bacd43c8ef1038
+
+/home/vitor/Desktop/SOPE/.git/objects/41/
+1179851  -r--r--r--  vitor      1603  Mar 22 18:24  141e1b5191727c02fa5f4bf3c50886b64a78cf
+
+/home/vitor/Desktop/SOPE/.git/objects/51/
+1179774  -r--r--r--  vitor       303  Mar 21 16:55  033ae3d8db27043696e8023517a0740420a39b
+1179712  -r--r--r--  vitor      2595  Mar 21 16:55  2f66b71673ff56f088bc7e9ceab005415be347
+
+/home/vitor/Desktop/SOPE/.git/objects/b5/
+1179743  -r--r--r--  vitor       316  Mar 21 16:55  fc1bca4708225f9d237035830f402562b609df
+
+/home/vitor/Desktop/SOPE/.git/objects/86/
+1179834  -r--r--r--  vitor       117  Mar 21 18:12  b0ee32ac55ee8fa1aaeae3598744c782006b0d
+
+/home/vitor/Desktop/SOPE/.git/objects/1c/
+2100754  -r--r--r--  vitor       114  Apr 18 08:46  3fe2a8ffec60486e6364b7bd79b6bea0eb055b
+
+/home/vitor/Desktop/SOPE/.git/objects/3b/
+1179784  -r--r--r--  vitor       306  Mar 21 16:55  083e805c263868b8eee18872bda703fe091f4e
+
+/home/vitor/Desktop/SOPE/.git/objects/e8/
+1179829  -r--r--r--  vitor      3942  Mar 21 18:12  398c17d63f0ccbc2b804dab4fea963b14c050b
+
+/home/vitor/Desktop/SOPE/.git/objects/5d/
+2100752  -r--r--r--  vitor      1773  Apr 18 08:46  9466ef253da8742654f6649821726d1c481af1
+
+/home/vitor/Desktop/SOPE/.git/objects/c4/
+1179698  -r--r--r--  vitor        86  Mar 21 16:55  700f7a0fb51f6e0fadd9b5ea97085b0b0aae99
+1179816  -r--r--r--  vitor      3760  Mar 21 17:04  f3823f599e86f3d89784b7a48e7f4e6595d29a
+
+/home/vitor/Desktop/SOPE/.git/objects/e9/
+1179810  -r--r--r--  vitor       134  Mar 21 16:57  47f0edd9c6802a1c583f7f9ae8244eff7ccd3a
+
+/home/vitor/Desktop/SOPE/.git/objects/63/
+1179754  -r--r--r--  vitor       237  Mar 21 16:55  23daaea918e972cdba599d61d1358dc36051d7
+1179733  -r--r--r--  vitor       299  Mar 21 16:55  3bbc48a4e6388eea0d102777b93b79bdbec5c8
+
+/home/vitor/Desktop/SOPE/.git/objects/52/
+1179831  -r--r--r--  vitor      1025  Mar 21 18:12  988577f02ba84eeae3ea17246cb04c76a5e713
+
+/home/vitor/Desktop/SOPE/.git/objects/bc/
+1179818  -r--r--r--  vitor       198  Mar 21 16:57  7489fc30fab9d7fb3c61c1bfb43a2774bd835e
+1179776  -r--r--r--  vitor      2923  Mar 21 16:55  187ba78d30891102115f39e28a1ae7285a22ef
+
+/home/vitor/Desktop/SOPE/.git/objects/a4/
+1179727  -r--r--r--  vitor      3044  Mar 21 16:55  3f30b7f13efee95dbaa905cb316bf90d877752
+1179931  -r--r--r--  vitor       233  Mar 23 17:51  5633fe0776c9b062ae26db76713a59dbda7409
+
+/home/vitor/Desktop/SOPE/.git/objects/44/
+1179662  -r--r--r--  vitor       210  Mar 22 16:58  f8de841d2f3d1e9c3bb5deaf240e7e6ead8047
+1179704  -r--r--r--  vitor      2596  Mar 21 16:55  71520011c784618d12abe0fc73e8bd4a3ac760
+
+/home/vitor/Desktop/SOPE/.git/objects/24/
+1179827  -r--r--r--  vitor       198  Mar 21 17:04  89e2e8d39450b0f22644fb2f1be49345fb2aa3
+1179848  -r--r--r--  vitor       208  Mar 22 18:14  d6789adc8f19cb1146af0b65b9ab2eb3693c76
+
+/home/vitor/Desktop/SOPE/.git/objects/d7/
+1179778  -r--r--r--  vitor       337  Mar 21 16:55  26246ebaff3f380635934958fc5e009058e915
+1179856  -r--r--r--  vitor      4425  Mar 22 18:14  22134ff553366f09827cd3e568e13b3fd46d14
+
+/home/vitor/Desktop/SOPE/.git/objects/97/
+1179664  -r--r--r--  vitor      4304  Mar 22 16:58  d3c717151868553a05d2a683dedb82feca67e6
+
+/home/vitor/Desktop/SOPE/.git/objects/ff/
+1179724  -r--r--r--  vitor      2654  Mar 21 16:55  0b033d00dce363d342ec8e388d536bb982255c
+
+/home/vitor/Desktop/SOPE/.git/objects/c2/
+1179858  -r--r--r--  vitor      1600  Mar 22 18:14  15eb379130e80c06ee18d85b74317b1a09b1be
+
+/home/vitor/Desktop/SOPE/.git/objects/4b/
+1179745  -r--r--r--  vitor      3180  Mar 21 16:55  abcf4e1dc9458e969ef705399f1a61e5785c3f
+
+/home/vitor/Desktop/SOPE/.git/objects/27/
+1179722  -r--r--r--  vitor       499  Mar 21 16:55  620f016c1d9a9db98a17b77ecd16ebfa9f8c91
+
+/home/vitor/Desktop/SOPE/.git/objects/b0/
+1179932  -r--r--r--  vitor       222  Mar 23 17:51  015d95ceefcea95848effb8d5eb7f7140dcfde
+
+/home/vitor/Desktop/SOPE/.git/objects/72/
+1179770  -r--r--r--  vitor      2895  Mar 21 16:55  8a25e35fff97f847063f0fa9a618cbdaed7f58
+
+/home/vitor/Desktop/SOPE/.git/objects/73/
+1179768  -r--r--r--  vitor       438  Mar 21 16:55  7aa48785d1ee59bb723d3358a1b5a10f424497
+
+/home/vitor/Desktop/SOPE/.git/objects/28/
+1179812  -r--r--r--  vitor        54  Mar 21 16:57  f257801f9759049fba1d7039569f72502d5cbd
+
+/home/vitor/Desktop/SOPE/.git/objects/da/
+1179845  -r--r--r--  vitor       198  Mar 21 18:41  3d1e548b420e69f614d386de4e7e7320808c94
+
+/home/vitor/Desktop/SOPE/.git/objects/fb/
+1179731  -r--r--r--  vitor      2999  Mar 21 16:55  1e22af4cdb1ee94ae404a64cc49e3482a0e74b
+
+/home/vitor/Desktop/SOPE/.git/objects/f0/
+1179757  -r--r--r--  vitor       196  Mar 21 16:55  84e14d0e069a8e394dc92d26beb1e4339b88aa
+1179718  -r--r--r--  vitor       239  Mar 21 16:55  a70caeb43c6689cb4d42dc9800ac24af964e17
+
+/home/vitor/Desktop/SOPE/.git/objects/pack/
+
+/home/vitor/Desktop/SOPE/.git/objects/cf/
+1179760  -r--r--r--  vitor       206  Mar 21 16:55  67c93158f73e7ea7098209a5f4021b9d057130
+
+/home/vitor/Desktop/SOPE/.git/objects/9d/
+1179667  -r--r--r--  vitor      4344  Mar 22 16:58  86ab22eeba12a8c0db28aa45cc2cdbe4e1e380
+
+/home/vitor/Desktop/SOPE/.git/objects/b7/
+1179871  -r--r--r--  vitor        51  Mar 22 18:24  8c94ca034bc09943385bda40ff7691499454fb
+
+/home/vitor/Desktop/SOPE/.git/objects/2a/
+1179853  -r--r--r--  vitor        45  Mar 22 18:14  afa89d75f098978fa67ffdb45c75677e8c21a6
+
+/home/vitor/Desktop/SOPE/.git/objects/b9/
+1185816  -r--r--r--  vitor       130  Apr 18 08:46  2acedd280c2d74785e9e764eeabc43c5091c29
+1179862  -r--r--r--  vitor       233  Mar 22 18:14  b3264cb61b9065920a8ec46d1f6d5739ebf023
+
+/home/vitor/Desktop/SOPE/.git/objects/3a/
+1179729  -r--r--r--  vitor       335  Mar 21 16:55  b0fceed84f35c93814e751d48cb077b296ee58
+
+/home/vitor/Desktop/SOPE/.git/objects/6d/
+1179782  -r--r--r--  vitor      2993  Mar 21 16:55  d42ab3277cd614a7633e89e84c4c0f7e2c09b0
+1179803  -r--r--r--  vitor       173  Mar 21 17:04  c2f053974bee45bf6155ffeaf58f5f934a19ad
+1179741  -r--r--r--  vitor      3028  Mar 21 16:55  9faed84da9e2ec58213131da2ffc726d3f7f70
+
+/home/vitor/Desktop/SOPE/.git/objects/a2/
+1179924  -r--r--r--  vitor       232  Mar 23 14:57  a6f5a02bf385a3794a066de18164e656e48c6a
+
+/home/vitor/Desktop/SOPE/.git/objects/76/
+1179710  -r--r--r--  vitor        86  Mar 21 16:55  fb50250c0b8d1dfa2ebd237514c47be05724d5
+
+/home/vitor/Desktop/SOPE/.git/objects/a3/
+1179737  -r--r--r--  vitor       361  Mar 21 16:55  1a5d5f8402418518dd674d84b079f40e698de2
+1179771  -r--r--r--  vitor       299  Mar 21 16:55  8472d57f37eec9200e1637617a5e295e663c13
+
+/home/vitor/Desktop/SOPE/.git/objects/bd/
+1443611  -r--r--r--  vitor       233  Apr 14 19:07  5a18eb3e62d5141b92f0cab6501c20edc30986
+
+/home/vitor/Desktop/SOPE/.git/objects/d6/
+1179825  -r--r--r--  vitor       116  Mar 21 17:04  507d2da53b22a559e5b5aa76f62362d335f904
+
+/home/vitor/Desktop/SOPE/.git/objects/fe/
+1179794  -r--r--r--  vitor       488  Mar 21 16:57  161400c7a82ab228c80b31e2047e3147784dfc
+
+/home/vitor/Desktop/SOPE/.git/objects/55/
+1179922  -r--r--r--  vitor        52  Mar 23 14:57  b4852ee0fe4ac8ecec4e3bea138d7959a87e23
+1179787  -r--r--r--  vitor      1096  Mar 21 16:55  a501e3e76d7cc4f6978521a5bff2f7c7f35ed8
+1179779  -r--r--r--  vitor      2928  Mar 21 16:55  3da569b9c4023a536e1eb22a0b16842f691876
+1179749  -r--r--r--  vitor      3129  Mar 21 16:55  2598b7dfbf9f746170b7aefdd66bc6d8b6dc20
+
+/home/vitor/Desktop/SOPE/.git/objects/info/
+
+/home/vitor/Desktop/SOPE/.git/objects/64/
+1179762  -r--r--r--  vitor      3077  Mar 21 16:55  261e0a2e5651dca7300712f6ef442d0ba9008c
+
+/home/vitor/Desktop/SOPE/.git/objects/af/
+1179753  -r--r--r--  vitor      2826  Mar 21 16:55  5c9ae92f335edeb195321fd2e30a9b0a8e7636
+1179758  -r--r--r--  vitor      2815  Mar 21 16:55  4a0cee1d31952bfd1d6d51f2bfcbdfb0f4b103
+
+/home/vitor/Desktop/SOPE/.git/objects/ce/
+1179700  -r--r--r--  vitor      2596  Mar 21 16:55  f14ca3d7dfa18683cb2e3386c53b0bf72f06a3
+
+/home/vitor/Desktop/SOPE/.git/objects/8b/
+2100758  -r--r--r--  vitor       180  Apr 18 08:46  cd59daea190bf234459b576b94511c5bd65883
+
+/home/vitor/Desktop/SOPE/.git/objects/fd/
+1179855  -r--r--r--  vitor      4474  Mar 22 18:14  39a14bae928a6b74c5904cc46f6474096bd399
+
+/home/vitor/Desktop/SOPE/.git/objects/18/
+1179814  -r--r--r--  vitor        69  Mar 21 16:57  50c3c78b96a436fb796354dbeda02ba1c095d2
+
+/home/vitor/Desktop/SOPE/.git/objects/a9/
+1179791  -r--r--r--  vitor       638  Mar 21 16:57  eb52e97321315be29d75155aa726628954de44
+
+/home/vitor/Desktop/SOPE/.git/objects/6a/
+1179875  -r--r--r--  vitor       189  Mar 22 18:24  5cc41ae2b3e34690894ce5780806ed3217f16e
+
+/home/vitor/Desktop/SOPE/.git/objects/2e/
+1179867  -r--r--r--  vitor       232  Mar 22 18:18  29f18954e55411a6ffd1be70f6b4d6119e9701
+
+/home/vitor/Desktop/SOPE/.git/objects/b2/
+1179694  -r--r--r--  vitor        29  Mar 21 16:55  ebd94c53a4dfa77045e33885dd225000ed4af2
+1179792  -r--r--r--  vitor       226  Mar 21 16:57  53d3b0e91be9b6c65377c017d81ef5403e3e91
+
+/home/vitor/Desktop/SOPE/.git/objects/68/
+1179838  -r--r--r--  vitor      1376  Mar 22 16:58  0d463495a046c14b43094bf1badaca37dc05f3
+
+/home/vitor/Desktop/SOPE/.git/objects/58/
+1179839  -r--r--r--  vitor      3772  Mar 21 18:41  28e8ecda423f6188ccb282cdbe20854c038d66
+
+/home/vitor/Desktop/SOPE/.git/objects/09/
+1179796  -r--r--r--  vitor        77  Mar 21 16:57  997f3919b8419cc57a367432429a2e097d416b
+
+/home/vitor/Desktop/SOPE/.git/objects/e5/
+1179725  -r--r--r--  vitor       174  Mar 21 16:55  52a243eac244815d5d8cd0308dc447976ef3f9
+1179708  -r--r--r--  vitor      2595  Mar 21 16:55  699b9bc28c21928283fcfe5b2dd199379e79cd
+
+/home/vitor/Desktop/SOPE/.git/objects/d3/
+1179849  -r--r--r--  vitor       117  Mar 22 16:58  faa9f2a2f3e0d519c6db24a9979cbe0cc6b6e1
+1179850  -r--r--r--  vitor       199  Mar 22 16:58  4cc54ce1da0ac28be5e42f96c3e9536c7f06e3
+1179766  -r--r--r--  vitor      3079  Mar 21 16:55  0584bd7ea1d0d63afd4de312390080846593ee
+
+/home/vitor/Desktop/SOPE/.git/objects/ad/
+1179800  -r--r--r--  vitor       159  Mar 21 16:55  9e58b74b099bf0b06af142dda2d05808c075ee
+
+/home/vitor/Desktop/SOPE/.git/objects/04/
+1179702  -r--r--r--  vitor       243  Mar 21 16:55  0ed6410511ede1cd87c8398b942d357ceca612
+
+/home/vitor/Desktop/SOPE/.git/objects/f5/
+1185665  -r--r--r--  vitor      1725  Apr 14 19:07  81c364451a61b2fbb589b1987e93dc9e1faf6d
+
+/home/vitor/Desktop/SOPE/.git/objects/90/
+1179696  -r--r--r--  vitor      2596  Mar 21 16:55  e17a214594fdf821b19d24fab9cdd9164db84f
+
+/home/vitor/Desktop/SOPE/.git/objects/00/
+1179773  -r--r--r--  vitor      2895  Mar 21 16:55  4546b64f5f9d131ef0db55d83f6a056ae1c1d9
+
+/home/vitor/Desktop/SOPE/.git/objects/25/
+1179822  -r--r--r--  vitor      1040  Mar 21 17:04  fe2e3a4d7e13162adc002a853cefbe7ad36ab8
+1179756  -r--r--r--  vitor      2933  Mar 21 16:55  0f910817a6d2fac9f45b70ee7f7557c081c821
+
+/home/vitor/Desktop/SOPE/.git/objects/96/
+1179925  -r--r--r--  vitor       186  Mar 23 14:57  2c4b62671c93dcef088c6fa16cd1d8d56a3067
+
+/home/vitor/Desktop/SOPE/.git/objects/43/
+1179930  -r--r--r--  vitor        52  Mar 23 17:51  e1b3bb4c85ff86f4144deba6d4458338cf2104
+
+/home/vitor/Desktop/SOPE/.git/objects/b1/
+1179913  -r--r--r--  vitor      1609  Mar 22 18:50  0b9994b5419059c65e9edd636138efd00066cd
+
+/home/vitor/Desktop/SOPE/.git/objects/02/
+1179916  -r--r--r--  vitor        52  Mar 22 18:50  ed44d9069224f0c2a290385b902fe063397fea
+
+/home/vitor/Desktop/SOPE/.git/objects/95/
+1179764  -r--r--r--  vitor       437  Mar 21 16:55  23d35f6230d8517002b47d296cd0c0b3511fe9
+
+/home/vitor/Desktop/SOPE/.git/objects/6c/
+1179720  -r--r--r--  vitor      2819  Mar 21 16:55  b112b8d3b7dba74fa845515d951da9df4c5e97
+
+/home/vitor/Desktop/SOPE/.git/objects/40/
+1179874  -r--r--r--  vitor       233  Mar 22 18:24  e648f4b576476fcd067ddd21fc6984369b37a3
+
+
+/home/vitor/Desktop/SOPE/.git/refs/
+/home/vitor/Desktop/SOPE/.git/refs/tags/
+
+/home/vitor/Desktop/SOPE/.git/refs/heads/
+1185666  -rw-rw-r--  vitor        41  Apr 18 08:46  master
+
+
+1185818  -rw-rw-r--  vitor      4831  Apr 18 11:42  index
+/home/vitor/Desktop/SOPE/.git/hooks/
+1179674  -rwxrwxr-x  vitor      1348  Mar 21 16:54  pre-push.sample
+1179675  -rwxrwxr-x  vitor      4898  Mar 21 16:54  pre-rebase.sample
+1179676  -rwxrwxr-x  vitor      3611  Mar 21 16:54  update.sample
+1179677  -rwxrwxr-x  vitor       478  Mar 21 16:54  applypatch-msg.sample
+1179678  -rwxrwxr-x  vitor      1239  Mar 21 16:54  prepare-commit-msg.sample
+1179679  -rwxrwxr-x  vitor       896  Mar 21 16:54  commit-msg.sample
+1179680  -rwxrwxr-x  vitor       424  Mar 21 16:54  pre-applypatch.sample
+1179681  -rwxrwxr-x  vitor      1642  Mar 21 16:54  pre-commit.sample
+1179682  -rwxrwxr-x  vitor       189  Mar 21 16:54  post-update.sample
+
+1179689  -rw-rw-r--  vitor       285  Mar 21 16:57  config
+/home/vitor/Desktop/SOPE/.git/logs/
+/home/vitor/Desktop/SOPE/.git/logs/refs/
+/home/vitor/Desktop/SOPE/.git/logs/refs/heads/
+1179807  -rw-rw-r--  vitor      2829  Apr 18 08:46  master
+
+
+1179808  -rw-rw-r--  vitor      2829  Apr 18 08:46  HEAD
+
+/home/vitor/Desktop/SOPE/.git/info/
+1179684  -rw-rw-r--  vitor       240  Mar 21 16:54  exclude
+
+1179687  -rw-rw-r--  vitor        23  Mar 21 16:54  HEAD
+/home/vitor/Desktop/SOPE/.git/branches/
+
+1179686  -rw-rw-r--  vitor        73  Mar 21 16:54  description
+1185821  -rw-rw-r--  vitor        41  Apr 18 11:40  ORIG_HEAD
+
+/home/vitor/Desktop/SOPE/Prob_03/
+1183433  -rwxrwxr-x  vitor      8880  Mar  7 17:40  p6c
+1183430  -rw-rw-r--  vitor       825  Mar  7 17:37  p6.c
+1183428  -rw-rw-r--  vitor       358  Mar  7 16:43  p4b.c
+1183439  -rw-rw-r--  vitor       567  Mar  7 17:57  p8c.c
+1183426  -rwxrwxr-x  vitor      8840  Mar  7 16:42  p4a
+1183441  -rw-rw-r--  vitor       571  Mar  7 17:59  p8d.c
+1183429  -rwxrwxr-x  vitor      8728  Mar  7 16:43  p4b
+1183424  -rw-rw-r--  vitor       350  Mar  7 16:42  p4a.c
+1183440  -rwxrwxr-x  vitor      8728  Mar  7 17:57  p8c
+1183435  -rwxrwxr-x  vitor      8728  Mar  7 17:47  p8a
+1183442  -rwxrwxr-x  vitor      8720  Mar  7 17:59  p8d
+1183422  -rwxrwxr-x  vitor      8712  Mar  7 16:35  p1
+1183436  -rw-rw-r--  vitor       468  Mar  7 17:53  p8b.c
+1183420  -rw-rw-r--  vitor       436  Mar  7 16:35  p1.c
+1183434  -rw-rw-r--  vitor       464  Mar  7 17:47  p8a.c
+1183431  -rwxrwxr-x  vitor      8880  Mar  7 17:39  p6
+1183432  -rw-rw-r--  vitor       827  Mar  7 17:40  p6c.c
+1183437  -rwxrwxr-x  vitor      8720  Mar  7 17:53  p8b
+
+/home/vitor/Desktop/SOPE/Prob_01/
+1444639  -rw-rw-r--  vitor       235  Feb 22 17:17  p5a.c
+1444626  -rwxrwxr-x  vitor      8520  Feb 22 16:30  p2b
+1444647  -rw-rw-r--  vitor        13  Feb 22 18:45  outfile.txt
+1444625  -rwxrwxr-x  vitor      8520  Feb 22 16:26  p2a
+1444628  -rwxrwxr-x  vitor      8520  Feb 22 16:34  p3a
+1444637  -rw-rw-r--  vitor       899  Feb 22 17:09  p4b.c
+1444648  -rw-rw-r--  vitor       584  Feb 22 20:41  p6f.c
+1444629  -rw-rw-r--  vitor       181  Feb 22 16:34  p3a.c
+1444634  -rwxrwxr-x  vitor      8576  Feb 22 19:03  p4a
+1444633  -rw-rw-r--  vitor       111  Feb 22 16:37  p3c.c
+1444635  -rwxrwxr-x  vitor      8520  Feb 22 17:14  p5a
+1444636  -rwxrwxr-x  vitor      8624  Feb 22 17:02  p4b
+1444641  -rwxrwxr-x  vitor      8944  Feb 22 17:40  p6a
+1183286  -rw-rw-r--  vitor        71  Feb 22 16:25  p2a.c
+1444640  -rw-rw-r--  vitor       334  Feb 23 09:02  p4a.c
+1444638  -rw-rw-r--  vitor       583  Feb 22 17:48  p6e.c
+1444643  -rwxrwxr-x  vitor      8840  Feb 22 17:48  p6e
+1444627  -rw-rw-r--  vitor       306  Feb 22 16:30  p2b.c
+1444650  -rw-rw-r--  vitor        13  Feb 22 18:44  infile.txt
+1444631  -rw-rw-r--  vitor        71  Feb 22 16:35  p3b.c
+1444642  -rw-rw-r--  vitor       683  Feb 22 17:41  p6a.c
+1444630  -rwxrwxr-x  vitor      8520  Feb 22 16:36  p3b
+1444649  -rw-rw-r--  vitor       807  Feb 22 19:42  p6g.c
+1444632  -rwxrwxr-x  vitor      8520  Feb 22 16:37  p3c
+
+1179817  -rw-rw-r--  vitor        56  Mar 21 16:57  README.md
+/home/vitor/Desktop/SOPE/Prob_02/
+1444760  -rwxrwxr-x  vitor      8928  Feb 29 17:19  p2b
+1444757  -rwxrwxr-x  vitor      8944  Feb 29 16:32  p2a
+1444755  -rw-rw-r--  vitor       624  Feb 29 16:28  p2a.c
+1444765  -rwx--x---  vitor     18909  Feb 29 17:19  output.txt
+1444759  -rw-rw-r--  vitor      1271  Feb 29 17:23  p2b.c
+1444766  -rw-rw-r--  vitor      1265  Feb 29 17:45  p3b.c
+1444756  -rw-rw-r--  vitor     18909  Feb 29 17:12  input
+1444768  -rwxrwxr-x  vitor      8880  Feb 29 17:45  p3b
+
+1179847  -rw-rw-r--  vitor        38  Mar 22 18:12  .gitignore
